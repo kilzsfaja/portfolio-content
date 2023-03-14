@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+}
+
+.deepSky {
+    color: deepskyblue;
+}
+
+#cyanDark {
+    color: darkcyan;
+}
+
+h3 {
+    color: cornflowerblue;
+}
+
+.headshot > img {
+    height: 300px;
+}
+
+.thumbs > img {
+    height: 60px;
+}
